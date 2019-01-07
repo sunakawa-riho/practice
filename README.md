@@ -1,2 +1,2 @@
 # practice
-This is workspace for test.
+This is workspace for practice.
